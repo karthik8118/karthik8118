@@ -1,58 +1,55 @@
-# 👋 Hello, I’m Karthik Gudibanda
+# 👋 Hi, I'm Karthik Gudibanda
 
-I’m a technologist and AI specialist with a passion for building **responsible and human-centered AI systems**. Currently pursuing my MSc in AI in Society at TUM (Munich), I work at the crossroads of **machine learning, AI ethics, and policy** — focused on creating products and solutions that are both technically sound and socially impactful.
+**AI/ML Student** | **MS AI in Society @ TU Munich** | **Exploring Responsible AI Development**
 
----
-
-## 🛠 Technical Skills & Experience
-
-- Proficient in Python, JavaScript, ML frameworks (TensorFlow, Scikit-learn), and AI tools  
-- Experienced in NLP, semantic search, and building retrieval-augmented generation (RAG) chatbots  
-- Skilled in data analysis, model evaluation, and explainability techniques  
-- Comfortable with backend technologies including Docker, PostgreSQL, and AWS deployments
+Currently learning about the intersection of AI technology and society, building technical skills while exploring AI ethics, governance, and policy implications.
 
 ---
 
-## 🌍 Passion & Focus
-
-- AI governance, fairness, and ethical innovation  
-- Bridging gaps between technical teams, policy makers, and end users  
-- Developing AI products that prioritize transparency, accountability, and societal benefit  
-- Exploring the implications of AGI and AI safety in real-world settings
-
----
-
-## 🚀 Selected Projects
-
-### GPT-4 RAG Chatbot for University Helpdesk  
-Built a scalable chatbot integrating semantic search and dynamic prompt engineering to enhance student support.  
-*Technologies: Python, LangChain, FAISS, Docker, AWS*
-
-### Multi-Label Hate Speech Detection  
-Developed advanced NLP models for detecting nuanced toxic language across multiple categories.  
-*Technologies: TensorFlow, BERT, SVM, XGBoost*
-
-### Predictive Analytics for Oktoberfest Trends  
-Applied machine learning to forecast event trends and demand, helping inform strategic decisions.  
-*Technologies: XGBoost, Random Forest, Feature Engineering*
+## 🎯 What I'm Into
+- **AI Ethics & Governance** - Understanding how to build and deploy AI responsibly
+- **Machine Learning** - Developing practical ML solutions with fairness in mind  
+- **AI Product Development** - Creating AI systems that actually help people
+- **Cross-disciplinary Learning** - Bridging tech, policy, and social impact
 
 ---
 
-## 🎯 Current & Future Interests
-
-- Working on AI policy and regulatory frameworks in Europe  
-- Creating tools that make AI explainable and trustworthy  
-- Collaborating with interdisciplinary teams (engineering, law, social sciences)  
-- Driving product innovation where AI meets society
+## 🛠️ Technical Skills
+**AI/ML**: Python, TensorFlow, Scikit-learn, NLP, Computer Vision  
+**Development**: SQL, Docker, AWS, Git  
+**Research**: Data Analysis, Technical Writing  
 
 ---
 
-## 📫 Let’s Connect
+## 🚀 Projects I'm Proud Of
 
-Email: [karthik.g8118@gmail.com]  
-LinkedIn: [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/gudibanda-karthik/])  
-Portfolio: [github.com/yourusername](https://github.com/karthik8118)
+### [AI University Helpdesk](https://nia-chatbot.edu.sot.tum.de/)
+RAG chatbot using LangChain, FAISS, GPT-4 - deployed on AWS  
+*Focus: Building helpful AI with privacy considerations*
+
+### Multi-Label Hate Speech Detection
+97.7% accuracy using NLP techniques and deep learning  
+*Focus: Making online spaces safer through AI*
+
+### Food Classification App
+CNN-based app achieving 98.7% accuracy on Indian dishes  
+*Focus: Practical AI applications for everyday problems*
 
 ---
 
-> *“Building AI that serves people responsibly is the challenge and opportunity of our time.”*
+## 🌱 Currently Learning
+- AI governance frameworks and policy implications
+- Explainable AI and fairness metrics
+- Responsible AI development practices
+- How to bridge technical and non-technical stakeholders
+
+---
+
+## 📍 Munich, Germany
+Open to opportunities in AI ethics, responsible AI development, AI policy, and product roles where I can contribute to building better AI systems.
+
+**Let's connect**: [LinkedIn](https://www.linkedin.com/in/gudibanda-karthik/) | [Email](karthik.g8118@gmail.com)
+
+---
+
+*Learning to build AI that's not just smart, but also responsible and beneficial.*
