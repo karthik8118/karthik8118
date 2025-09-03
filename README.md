@@ -13,7 +13,7 @@ Currently learning about the intersection of AI technology and society, building
 
 
 ## 🛠️ Technical Skills
-**AI/ML**: Python, TensorFlow, Scikit-learn, NLP, Computer Vision  
+**AI/ML**: Python, PyTorch, Scikit-learn, NLP, Computer Vision  
 **Development**: SQL, Docker, AWS, Git  
 **Research**: Data Analysis, Technical Writing  
 
