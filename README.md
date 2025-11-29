@@ -1,48 +1,50 @@
 # 👋 Hi, I'm Karthik Gudibanda
 
-**AI/ML Student** | **MS AI in Society @ TU Munich** | **Exploring Responsible AI Development**
-
-Currently learning about the intersection of AI technology and society, building technical skills while exploring AI ethics, governance, and policy implications.
+**AI/ML Student** | **MS AI in Society @ TU Munich**  
+Exploring how AI, people, and real-world problems intersect. Building AI systems responsibly while learning product, strategy, and interdisciplinary thinking.
 
 
 ## 🎯 What I'm Into
-- **AI Ethics & Governance** - Understanding how to build and deploy AI responsibly
-- **Machine Learning** - Developing practical ML solutions with fairness in mind  
-- **AI Product Development** - Creating AI systems that actually help people
-- **Cross-disciplinary Learning** - Bridging tech, policy, and social impact
+- **Responsible AI & Ethics** – Building and deploying AI safely and fairly  
+- **Machine Learning & AI Systems** – LLMs, RAG, NLP, Computer Vision, Agentic AI  
+- **Product & Strategy** – Turning technical ideas into real-world solutions  
+- **Interdisciplinary Collaboration** – Bridging technology, management, and social impact  
+- **Community & Impact** – Volunteering, building networks, and contributing to meaningful projects
 
 
-## 🛠️ Technical Skills
-**AI/ML**: Python, PyTorch, Scikit-learn, NLP, Computer Vision  
-**Development**: SQL, Docker, AWS, Git  
-**Research**: Data Analysis, Technical Writing  
+## 🛠️ Skills
+**AI/ML:** Python, PyTorch, Scikit-learn, LangChain, LLMs, NLP, CV  
+**Tools & Dev:** Docker, AWS, Git, SQL, ONNX  
+**Other:** Data analysis, research, documentation, teamwork, project management
 
-## 🚀 Projects I'm Proud Of
 
-### [AI University Helpdesk](https://nia-chatbot.edu.sot.tum.de/)
-RAG chatbot using LangChain, FAISS, GPT-4 - deployed on AWS  
-*Focus: Building helpful AI with privacy considerations*
+## 🚀 Projects
 
-### Multi-Label Hate Speech Detection
-97.7% accuracy using NLP techniques and deep learning  
-*Focus: Making online spaces safer through AI*
+### **Agent-Orchestrated Research Evaluator**  
+TUM × Anthropic × CDTM Hackathon – Multi-agent system evaluating research commercialization potential.  
 
-### Food Classification App
-CNN-based app achieving 98.7% accuracy on Indian dishes  
-*Focus: Practical AI applications for everyday problems*
+### **AI University Helpdesk**  
+RAG chatbot using LangChain, FAISS, and GPT-4, deployed on AWS. Focus on practical, privacy-conscious AI support.  
+
+### **Multi-Label Hate Speech Detection**  
+NLP + deep learning pipeline to make online spaces safer.  
+
+### **Food Classification App**  
+CNN + YOLOv8 mobile app for food recognition, end-to-end from modeling to deployment.
 
 
 ## 🌱 Currently Learning
-- AI governance frameworks and policy implications
-- Explainable AI and fairness metrics
-- Responsible AI development practices
-- How to bridge technical and non-technical stakeholders
+- Guardrails for autonomous AI agents  
+- AI governance, safety, and policy frameworks  
+- Product thinking and interdisciplinary problem-solving  
+- Rapid prototyping and iterative project development  
+- Building and contributing to communities with impact
 
 
-## 📍 Munich, Germany
-Open to opportunities in AI ethics, responsible AI development, AI policy, and product roles where I can contribute to building better AI systems.
+## 📍 Location
+Munich, Germany  
 
-**Let's connect**: [LinkedIn](https://www.linkedin.com/in/gudibanda-karthik/) | [Email](karthik.g8118@gmail.com)
+**Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/gudibanda-karthik) | [Email](mailto:karthik.g8118@gmail.com)
 
-
-*Learning to build AI that's not just smart, but also responsible and beneficial.*
+*Building AI that is not just intelligent, but responsible, practical, and impactful.*
