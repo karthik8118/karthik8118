@@ -41,6 +41,6 @@ GPT-4 RAG chatbot using LangChain, FAISS, and PostgreSQL. Dockerized and deploye
 
 BTech in Data Science and AI from IIIT Dharwad. Now studying how AI systems interact with society at TUM, covering machine learning alongside ethics, governance, and policy.
 
-Based in Munich. Open to new and exciting opportunities.
+Based in Munich. Open to researc assistant and working student positions.
 
 [LinkedIn](https://www.linkedin.com/in/gudibanda-karthik) | [Email](mailto:karthik.g8118@gmail.com)
