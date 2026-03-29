@@ -1,50 +1,46 @@
-# 👋 Hi, I'm Karthik Gudibanda
+# Karthik Gudibanda
 
-**AI/ML Student** | **MS AI in Society @ TU Munich**  
-Exploring how AI, people, and real-world problems intersect. Building AI systems responsibly while learning product, strategy, and interdisciplinary thinking.
+**MSc AI in Society @ TU Munich**
 
+I build AI systems and care about who they affect. My work sits at the intersection of technical depth and real-world impact: from red-teaming guardrail models for edge-deployed agents at NXP, to building a geospatial ML model that helps identify underground water sources in Africa.
 
-## 🎯 What I'm Into
-- **Responsible AI & Ethics** – Building and deploying AI safely and fairly  
-- **Machine Learning & AI Systems** – LLMs, RAG, NLP, Computer Vision, Agentic AI  
-- **Product & Strategy** – Turning technical ideas into real-world solutions  
-- **Interdisciplinary Collaboration** – Bridging technology, management, and social impact  
-- **Community & Impact** – Volunteering, building networks, and contributing to meaningful projects
+I'm drawn to problems where responsible engineering actually matters.
 
+---
 
-## 🛠️ Skills
-**AI/ML:** Python, PyTorch, Scikit-learn, LangChain, LLMs, NLP, CV  
-**Tools & Dev:** Docker, AWS, Git, SQL, ONNX  
-**Other:** Data analysis, research, documentation, teamwork, project management
+## What I'm Working On
 
+**Geospatial ML for water access in Africa** (TUM Social AI)
+Fusing satellite imagery with historical borehole data to predict viable underground water drilling sites. Built in close collaboration with on-ground NGOs and government hydrology departments across several African countries.
 
-## 🚀 Projects
+**AI safety and agentic systems**
+Just wrapped a research internship at NXP Semiconductors benchmarking guardrail frameworks and LLM-based safety models for autonomous agents at the edge. Evaluated 16+ frameworks, ran red-teaming experiments across OWASP LLM Top 10 categories, and designed deployment architectures for different security/latency trade-offs.
 
-### **Agent-Orchestrated Research Evaluator**  
-TUM × Anthropic × CDTM Hackathon – Multi-agent system evaluating research commercialization potential.  
+---
 
-### **AI University Helpdesk**  
-RAG chatbot using LangChain, FAISS, and GPT-4, deployed on AWS. Focus on practical, privacy-conscious AI support.  
+## Selected Projects
 
-### **Multi-Label Hate Speech Detection**  
-NLP + deep learning pipeline to make online spaces safer.  
+**[Agent-Orchestrated Research Evaluator](https://github.com/karthik8118/tumHACK)**
+Multi-agent pipeline for evaluating scientific research commercialization potential. Built with CrewAI and FastAPI at the Anthropic x CDTM x TUM.ai hackathon.
 
-### **Food Classification App**  
-CNN + YOLOv8 mobile app for food recognition, end-to-end from modeling to deployment.
+**[AI University Helpdesk](https://nia-chatbot.edu.sot.tum.de/)**
+GPT-4 RAG chatbot using LangChain, FAISS, and PostgreSQL. Dockerized and deployed on AWS.
 
+---
 
-## 🌱 Currently Learning
-- Guardrails for autonomous AI agents  
-- AI governance, safety, and policy frameworks  
-- Product thinking and interdisciplinary problem-solving  
-- Rapid prototyping and iterative project development  
-- Building and contributing to communities with impact
+## Skills
 
+**AI/ML:** PyTorch, LangChain, FAISS, CrewAI, Hugging Face Transformers, Scikit-learn, ONNX
+**LLM Safety:** NeMo Guardrails, LlamaFirewall, LlamaGuard, QwenGuard, Guardrails-AI
+**Security Evaluation:** Garak, OWASP LLM Top 10, static benchmarking, adversarial red-teaming
+**Infrastructure:** AWS, Docker, FastAPI, PostgreSQL, Git, Linux
 
-## 📍 Location
-Munich, Germany  
+---
 
-**Connect with me:**  
+## Background
+
+BTech in Data Science and AI from IIIT Dharwad. Now studying how AI systems interact with society at TUM, covering machine learning alongside ethics, governance, and policy.
+
+Based in Munich. Open to new and exciting opportunities.
+
 [LinkedIn](https://www.linkedin.com/in/gudibanda-karthik) | [Email](mailto:karthik.g8118@gmail.com)
-
-*Building AI that is not just intelligent, but responsible, practical, and impactful.*
